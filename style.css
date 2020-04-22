@@ -1,0 +1,19 @@
+fieldset, main, button {
+    display: block;
+    font-family: cursive;
+    margin-bottom: 10px
+  }
+  
+  form {
+    width: 400px;
+  }
+  
+  button {
+    background: blue;
+    color: yellow
+  }
+  
+  #become {
+    padding: 50px;
+    width: 30%;
+  }
